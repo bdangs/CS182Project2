@@ -1,0 +1,17 @@
+<schedule>
+  <lecture>
+    <topic>Introduction to XML</topic>
+    <instructor>John Smith</instructor>
+    <time>Week 1</time>
+  </lecture>
+  <lecture>
+    <topic>XML Elements</topic>
+    <instructor>Mary Johnson</instructor>
+    <time>Week 2</time>
+  </lecture>
+  <lecture>
+    <topic>XML Attributes</topic>
+    <instructor>Robert Davis</instructor>
+    <time>Week 3</time>
+  </lecture>
+</schedule>
