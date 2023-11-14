@@ -1,17 +1,21 @@
-<schedule>
-  <lecture>
-    <topic>Introduction to XML</topic>
-    <instructor>John Smith</instructor>
-    <time>Week 1</time>
-  </lecture>
-  <lecture>
-    <topic>XML Elements</topic>
-    <instructor>Mary Johnson</instructor>
-    <time>Week 2</time>
-  </lecture>
-  <lecture>
-    <topic>XML Attributes</topic>
-    <instructor>Robert Davis</instructor>
-    <time>Week 3</time>
-  </lecture>
-</schedule>
+<recipeBook>
+  <recipe>
+    <title>Spaghetti Bolognese</title>
+    <chef>Gordon Ramsay</chef>
+    <difficulty>Intermediate</difficulty>
+    <ingredients>
+      <ingredient>Pasta</ingredient>
+      <ingredient>Ground beef</ingredient>
+      <ingredient>Tomato sauce</ingredient>
+      <ingredient>Onion</ingredient>
+      <ingredient>Garlic</ingredient>
+    </ingredients>
+    <instructions>
+      <step>Cook pasta according to package instructions.</step>
+      <step>In a pan, sauté chopped onion and garlic.</step>
+      <step>Add ground beef and brown.</step>
+      <step>Pour in tomato sauce and simmer.</step>
+      <step>Combine sauce with cooked pasta.</step>
+    </instructions>
+  </recipe>
+</recipeBook>
