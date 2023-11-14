@@ -1,4 +1,5 @@
 # CS182Project2
+Team Members: Bryan Dang - bdang014, Christian Maristela - cmari038, Alan Xu-Zhang - axuz001
 Option 2: AI-based Input Generation
 Pre-trained large language models (LLMs) have recently emerged as a breakthrough technique,
 and many researchers have been exploring how LLMs can be applied to software testing for
