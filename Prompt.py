@@ -21,6 +21,7 @@ prompt1 = "Please generate an xml file based on animals like the xml file provid
 # prompt5
 
 input = prompt1 + inputFile  # combine prompt wth example
+# seems to be some sort of error here on line 25
 xmlFile = xmlGenerator.generate(tokens.encode(input))
 output = tokens.decode(xmlFile)
 
