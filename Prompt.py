@@ -15,7 +15,7 @@ with open(xmlInput, "r", encoding="utf-8") as file:  # reads input xml file
 
 # we would put our prompt statements here for gpt2 to use. Need 5. Could probably create a loop to make code easier
 # not sure if this is how the prompt is supposed to be
-prompt1 = "Godzilla has surfaced and is destroying tokyo!"
+prompt1 = "Please generate an xml file based on animals"
 # prompt2
 # prompt3
 # prompt4
