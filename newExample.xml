@@ -1,0 +1,21 @@
+<recipeBook>
+<recipe>
+<title>Spaghetti Bolognese</title>
+<chef>Gordon Ramsay</chef>
+<difficulty>Intermediate</difficulty>
+<ingredients>
+<ingredient>Pasta</ingredient>
+<ingredient>Ground beef</ingredient>
+<ingredient>Tomato sauce</ingredient>
+<ingredient>Onion</ingredient>
+<ingredient>Garlic</ingredient>
+</ingredients>
+<instructions>
+<step>Cook pasta according to package instructions.</step>
+<step>In a pan, sauté chopped onion and garlic.</step>
+<step>Add ground beef and brown.</step>
+<step>Pour in tomato sauce and simmer.</step>
+<step>Combine sauce with cooked pasta.</step>
+</instructions>
+</recipe>
+</recipeBook>

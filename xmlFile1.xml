@@ -1,0 +1,123 @@
+Here is an example xml file. Please make a new xml file with a different instructor, topic, and time 
+<schedule>
+<lecture>
+<topic>Testing Overview</topic>
+<instructor>Qian Zhang</instructor>
+<time>Week 1</time>
+</lecture>
+<lecture>
+<topic>Input Space Partitioning</topic>
+<instructor>Qian Zhang</instructor>
+<time>Week 2</time>
+</lecture>
+<lecture>
+<topic>Test Coverage</topic>
+<instructor>Qian Zhang</instructor>
+<time>Week 3</time>
+</lecture>
+</schedule>
+</lecture>
+
+<lecture>
+
+<topic>Testing and Testing Overview</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 4</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 5</time>
+
+</lecture>
+
+</schedule>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 6</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Testing and Testing Overview</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 7</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 8</time>
+
+</lecture>
+
+</schedule>
+
+</lecture>
+
+</lecture>
+
+</body>
+
+
+<script>
+
+
+import <stdio.dll>
+
+
+import <math.h>
+
+
+import <ctype>int>true</ctype>
+
+
+export default class TestList <ctype:int> extends TestingCompatibilityWithResult { }
+
+
+public static void main(String[] args) { TestList.display() }
+
+<!-- See TestList example -- see below. -->
+
+
+private static void main(String[] args) { TestList.display() }
+
+
+private static void main(String[] args) { TestList.display() }
+
+<!-- Do nothing, let it run. -->
+
+<!-- Start the test. This does not count toward completion. -->
+
+public static void run(TestList<T>) { TestList.display() }
+
+
+public static void end(TestList<T>) { TestList.display() }
+
+<!-- The TestList will always be compiled to. It should run in C. -->
+
+public static void try(T> test) { TestList<T> test = new TestList<T>(); test.display() }
+
+
+</script>
+
+<!-- Use this to test. Check only the list of dependencies that will run in

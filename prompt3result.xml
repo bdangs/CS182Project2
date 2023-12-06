@@ -1,0 +1,97 @@
+Here is an example file. Please make a new xml file with a different instructor and time 
+
+<schedule>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 4</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 5</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 6</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 7</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 8</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 9</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 10</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 11</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 12</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Test Coverage

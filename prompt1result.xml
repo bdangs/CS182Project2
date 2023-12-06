@@ -1,0 +1,25 @@
+Make an xml file to show the text of the document, so you can use "xml:xml" for those examples.
+
+<html> <head> <meta name="viewport" content="width=device-width, initial-scale=1, scale-factor=1, color=blue"> <title>This is a simple example of writing an xml file</title> <meta name="viewport" content="width=device-width, initial-scale=1, scale-factor=1, color=red"> <span class="text-decoration" type="text/css"> <title>SVG Web Site Template</title> </span> </head> <body> <div class="aligncenter"> <div class="row"> <div class="column"> <div class="tab"> <div class="text-wrapper"> <label for="text-decoration"></label> <span class="text-label">You can now mark content as SVG text:</span> <span class="text-label">If you need to put it on a separate sidebar, here is how:</span> <span class="text-label"> </div> <div class="tab"> <div class="line"> <div class="tab"> <div class="line"> </div> </div> </div> </div> </div> </div> <div class="tab"> <div class="line"> <div class="line"> </div> </div> </div> </div> </div> </div> <div class="tab"> <div class="line"> <div class="line"> <div class="line"> </div> </div> </div> </div> </div> </div>
+
+You can then create a file called html.xml. Each time you paste the name of the file into the document, it is presented to you, where it is included along with the description.
+
+Example markup for a CSS1-style document:
+
+<style> { color: blue; }.text { height: 1000px; }
+
+So you see, a standard CSS1 code structure is generated using the elements of the markup in your markup tree, but the elements of the document are generated from a single line of the document. This markup is also shown and used by the script and document properties, to create a different type of HTML, so you can use other markup libraries.
+
+One other important step to avoid any potential conflict with other markup libraries, and more importantly, to provide a standard approach to handling a script, is to use them to write scripts that are consistent with the stylesheet they are written from.
+
+Example markup for a Sass-style document:
+
+<script> $ ('/*.text-wrapper:.example:'). then ( function () { var url = "www.example.com"; } ); </script>
+
+If you are interested in getting more information about this Sass style code generator, then you can find it on the Google Play page.
+
+If you have any comments or questions about this post, please make sure to leave a comment to the comments section at GitHub or the page on the wiki.
+
+About the Author
+
+This article is available for free on GitHub.

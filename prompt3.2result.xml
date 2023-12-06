@@ -1,0 +1,134 @@
+Here is an example xml file. Please make a new xml file with a different instructor and a different time 
+<schedule>
+<lecture>
+<topic>Testing Overview</topic>
+<instructor>Qian Zhang</instructor>
+<time>Week 34</time>
+</lecture>
+<lecture>
+<topic>Input Space Partitioning</topic>
+<instructor>Qian Zhang</instructor>
+<time>Week 12</time>
+</lecture>
+<lecture>
+<topic>Test Coverage</topic>
+<instructor>Qian Zhang</instructor>
+<time>Week 67</time>
+</lecture>
+</schedule>
+
+<lecture>
+
+<topic>Other questions</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 82</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Testing Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 91</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Other topics</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 93</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 109</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Other issues</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 110</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Testing Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 126</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Test Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 137</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Other issues</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 140</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Testing Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 145</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Other tests and questions</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 150</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Testing Coverage</topic>
+
+<instructor>Qian Zhang</instructor>
+
+<time>Week 151</time>
+
+</lecture>
+
+<lecture>
+
+<topic>Testing Coverage</topic>
+
+<in

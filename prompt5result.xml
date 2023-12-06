@@ -1,0 +1,52 @@
+The recipe book will allow you to easily use the new cookbook feature. Just fill it with any text, select it and choose a recipe type. If it says "cook" you can specify any other text.
+
+The recipe book will make use of the new standard text and format, allowing for all sorts of variations. You can also use it to generate the recipebook based on other text files.
+
+You can also choose to remove an existing recipe (e.g. for a specific flavor to use instead of adding a new one).
+
+I highly suggest adding the recipebook to the file created with your new recipe book when installing it to avoid any unnecessary dependencies.
+
+You can also add the new recipes.
+
+The following recipes will now have a text field when you create the book.
+
+<recipeBook>
+
+
+<title>The Sponge Bolognese recipe</title>
+
+<chef>Gordon Ramsay</chef>
+
+<difficulty>Basic</difficulty>
+
+<ingredients>
+
+<mention>Pasta</mention>
+
+<ingredient>Ground beef</mention>
+
+<ingredient>Tomato sauce</mention>
+
+<ingredient>Garlic</mention>
+
+</ingredients>
+
+<instructions>
+
+<step>Cook pasta according to package instructions.</step>
+
+<step>In a pan, sauté chopped onion and garlic. Add ground beef and brown. Add tomato sauce. Add onion and garlic. Cook pasta according to package instructions.
+
+</instructions>
+
+</recipeBook>
+
+If you need a separate image, there is a new option in your "Save as images" menu called "Image Settings".
+
+Now that you have your new recipe book, you can create one by opening that image file in your browser. To do so open the image file and follow the instructions listed.
+
+Add the following data:
+
+<img src="http://spongebolognese.net/file.php?icon=POMP-PNG+Icon1″ />
+
+You are now ready to
