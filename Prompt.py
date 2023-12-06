@@ -10,12 +10,13 @@ xmlModel.eval()
 
 xmlInput = "example.xml"  # input file
 
-with open(xmlInput, "r", encoding="utf-8") as file:  # reads input xml file
+with open(xmlInput, "r") as file:  # reads input xml file
     inputFile = file.read()
 
 # we would put our prompt statements here for gpt2 to use. Need 5. Could probably create a loop to make code easier
 # not sure if this is how the prompt is supposed to be
-prompt1 = "I was walking my dog today."
+prompt1 = "Here is an exammple xml file:\n" + \
+    inputFile + "\n Please generate another xml file"
 # prompt2
 # prompt3
 # prompt4
@@ -24,7 +25,7 @@ prompt1 = "I was walking my dog today."
 # input = prompt1 + inputFile  # combine prompt wth example
 input = prompt1
 encoded_input = xmlTokenizer.encode(input, return_tensors="pt")
-output = xmlModel.generate(encoded_input, max_length=50, do_sample=True,
+output = xmlModel.generate(encoded_input, max_length=1000, do_sample=True,
                            temperature=1.0, top_k=45, top_p=0.75, pad_token_id=xmlTokenizer.eos_token_id)
 
 xmlText = xmlTokenizer.decode(output[0], skip_special_tokens=True)
